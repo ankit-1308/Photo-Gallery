@@ -10,7 +10,7 @@ This project is a simple implementation of a photo gallery using HTML and CSS. I
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/username/html-css-photo-gallery.git`
+1. Clone the repository: `https://github.com/ankit-1308/Photo-Gallery.git`
 2. Open the `index.html` file in your web browser.
 3. Browse through the photo gallery, hover over photos to view their titles and descriptions.
 
